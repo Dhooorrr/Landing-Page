@@ -1,2 +1,3 @@
 https://dhooorrr.github.io/Landing-Page/
-If you like, please give a star to this repository
+
+If you dig my repository, I'd really appreciate it if you could give it a star!
